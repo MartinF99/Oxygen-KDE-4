@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=Oxygen KDE 4
+Name[de]=Oxygen KDE 4
+Comment=The old KDE 4 oxygen theme
+Comment[de]=Das alte KDE 4 Oxygen Thema
+X-KDE-PluginInfo-Author=The Oxygen Project
+X-KDE-PluginInfo-Email=kde-artists@kde.org
+X-KDE-PluginInfo-Name=org.kde.oxygenKDE4
+X-KDE-PluginInfo-Version=2.0
+X-KDE-PluginInfo-Website=http://plasma.kde.org
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=GPL
+X-KDE-PluginInfo-EnabledByDefault=true
